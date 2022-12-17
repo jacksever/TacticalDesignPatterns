@@ -1,0 +1,15 @@
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\bin\Debug\net6.0\CustomerDDD.exe
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\bin\Debug\net6.0\CustomerDDD.deps.json
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\bin\Debug\net6.0\CustomerDDD.runtimeconfig.json
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\bin\Debug\net6.0\CustomerDDD.dll
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\bin\Debug\net6.0\CustomerDDD.pdb
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.csproj.AssemblyReference.cache
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.AssemblyInfoInputs.cache
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.AssemblyInfo.cs
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.dll
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\refint\CustomerDDD.dll
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.pdb
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\CustomerDDD.genruntimeconfig.cache
+C:\Users\Alexander Gorodnikov\RiderProjects\CustomerDDD\CustomerDDD\obj\Debug\net6.0\ref\CustomerDDD.dll
